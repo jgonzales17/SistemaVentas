@@ -1,5 +1,5 @@
 package service;
-
+// refactor finalizado
 public class DescuentoService {
 
     public double calcularDescuento(double monto, String tipoCliente) {
